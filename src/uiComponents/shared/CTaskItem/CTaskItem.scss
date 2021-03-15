@@ -1,0 +1,13 @@
+.task-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.task-description {
+  font-size: $font-size-sm;
+  padding: 0;
+  margin: 2px 0 0 7px;
+}
+.expand-icon {
+  margin-top: 1px;
+}
